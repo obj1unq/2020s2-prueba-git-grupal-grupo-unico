@@ -6,4 +6,6 @@ Esta es una actividad para hacerse en grupo!
 
 Leandro Peppe
 
+Alejandro Pineda, estuve trabajando y sentado desde las 9 am.
+
 Ernesto Domato: laburar, laburar y laburar :-P
