@@ -9,3 +9,4 @@ Esta es una actividad para hacerse en grupo!
 - Alejandro Pineda, estuve trabajando y sentado desde las 9 am.
 - Ernesto Domato: laburar, laburar y laburar :-P
 - Nahuel Palumbo: Hice una ppt muy mala.
+- Leonardo Criado: Tratar de conquistar el mundo 
