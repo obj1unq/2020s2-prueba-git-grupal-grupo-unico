@@ -10,3 +10,4 @@ Esta es una actividad para hacerse en grupo!
 - Ernesto Domato: laburar, laburar y laburar :-P
 - Nahuel Palumbo: Hice una ppt muy mala.
 - Leonardo Criado: Tratar de conquistar el mundo 
+- Ivana P. Trabajé y estoy con el repo desde Visual Code (?)
