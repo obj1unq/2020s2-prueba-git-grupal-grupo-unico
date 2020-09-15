@@ -27,3 +27,5 @@ el profe Leo.
 
 - Franco Vanni: Nunca intenté tanto alguna cosa como hoy clonar este repo e intenter pushear. Tendre suerte ahora?
 - Jorge Cabral: Lo logré! 
+
+- Juan Cruz Insaurralde: salí a caminar un rato.
