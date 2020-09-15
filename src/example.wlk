@@ -5,7 +5,6 @@ object wollok {
 	}
 }
 
-
-
-
-// Testeando push
+object tusam {
+	//....
+}
