@@ -31,3 +31,5 @@ el profe Leo.
 - Juan Cruz Insaurralde: salí a caminar un rato.
 
 - leonel no intento mas esto
+
+- Astrada Ezequiel: Practico guitarra y peleo vs Git.
