@@ -20,4 +20,16 @@ Esta es una actividad para hacerse en grupo!
 - Ignacio Cervantes: andve en skate aprovechando el sol!
 - Fabian Acevedo :  intentando pushear y no morir en el intento.
 
-branch 'master' of https://github.com/obj1unq/2020s2-prueba-git-grupal-grupo-unico.git
+- Leonel Montiel: estuve haciendo lecciones de Mumuki, consulté mis dudas en discord y me ayudó
+el profe Leo.
+
+-Juan Muñoz:  Laburando desde las 6am
+
+- Franco Vanni: Nunca intenté tanto alguna cosa como hoy clonar este repo e intenter pushear. Tendre suerte ahora?
+- Jorge Cabral: Lo logré! 
+
+- Juan Cruz Insaurralde: salí a caminar un rato.
+
+- leonel no intento mas esto
+
+- Astrada Ezequiel: Practico guitarra y peleo vs Git.
