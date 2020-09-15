@@ -6,8 +6,11 @@ object wollok {
 }
 
 object ivanapr {
-	method colorFavorito {
+	method colorFavorito() {
 		return "Rojo"
+	}
+	method colorPelo() {
+		return "Azul"
 	}
 }
 
