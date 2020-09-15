@@ -25,4 +25,5 @@ el profe Leo.
 
 -Juan Muñoz:  Laburando desde las 6am
 
-- Franco Vanni: Nunca intenté tanto alguna cosa como hoy clonar este repo e intenter pushear. Tendre suerte ahora? 
+- Franco Vanni: Nunca intenté tanto alguna cosa como hoy clonar este repo e intenter pushear. Tendre suerte ahora?
+- Jorge Cabral: Lo logré! 
