@@ -8,7 +8,7 @@ object wollok {
 
 
 
-object pruebaJuanM{
+object testJuanM{
 	
 	
 }
