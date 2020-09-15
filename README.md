@@ -22,3 +22,5 @@ Esta es una actividad para hacerse en grupo!
 
 - Leonel Montiel: estuve haciendo lecciones de Mumuki, consulté mis dudas en discord y me ayudó
 el profe Leo.
+
+-Juan Muñoz:  Laburando desde las 6am
