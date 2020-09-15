@@ -13,3 +13,4 @@ Esta es una actividad para hacerse en grupo!
 - Ivana P. Trabajé y estoy con el repo desde Visual Code (?)
 - Daniel - Labure y me dormi alta siesta.
 - Ignacio Cervantes: anduve en skate aprovechando el sol!
+- Walter Laborde: anduve por la autopista después de 6 meses
