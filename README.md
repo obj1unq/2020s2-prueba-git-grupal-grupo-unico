@@ -11,6 +11,13 @@ Esta es una actividad para hacerse en grupo!
 - Nahuel Palumbo: Hice una ppt muy mala.
 - Leonardo Criado: Tratar de conquistar el mundo 
 - Ivana P. Trabajé y estoy con el repo desde Visual Code (?)
+- Arroyo Gonzalo: que duro que fue esto
 - Daniel - Labure y me dormi alta siesta.
+
 - Ignacio Cervantes: anduve en skate aprovechando el sol!
 - Walter Laborde: anduve por la autopista después de 6 meses
+
+- Ignacio Cervantes: andve en skate aprovechando el sol!
+- Fabian Acevedo :  intentando pushear y no morir en el intento.
+
+branch 'master' of https://github.com/obj1unq/2020s2-prueba-git-grupal-grupo-unico.git
