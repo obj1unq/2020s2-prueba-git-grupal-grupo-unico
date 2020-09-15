@@ -32,4 +32,6 @@ el profe Leo.
 
 - leonel no intento mas esto
 
+- Astrada Ezequiel: Practico guitarra y peleo vs Git.
+
 ¡¡VAMOS, NO SE DESANIMEN!!
