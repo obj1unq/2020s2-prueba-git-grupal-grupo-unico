@@ -11,3 +11,4 @@ Esta es una actividad para hacerse en grupo!
 - Nahuel Palumbo: Hice una ppt muy mala.
 - Leonardo Criado: Tratar de conquistar el mundo 
 - Ivana P. Trabajé y estoy con el repo desde Visual Code (?)
+- Daniel - Labure y me dormi alta siesta.
