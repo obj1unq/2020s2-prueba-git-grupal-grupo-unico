@@ -14,3 +14,4 @@ Esta es una actividad para hacerse en grupo!
 - Arroyo Gonzalo: que duro que fue esto
 - Daniel - Labure y me dormi alta siesta.
 - Ignacio Cervantes: andve en skate aprovechando el sol!
+- Fabian Acevedo :  intentando pushear y no morir en el intento.
