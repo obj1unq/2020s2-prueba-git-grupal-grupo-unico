@@ -5,7 +5,9 @@ object wollok {
 	}
 }
 
-
+object walterL {
+	
+}
 
 
 // Testeando push
