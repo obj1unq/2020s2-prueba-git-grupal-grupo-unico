@@ -5,7 +5,8 @@ object wollok {
 	}
 }
 
-
-
-
-// Testeando push
+object simon {
+	method dice(){
+		return "El demoledor es un peliculon"
+	}
+}
