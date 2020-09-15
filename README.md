@@ -34,4 +34,6 @@ el profe Leo.
 
 - Astrada Ezequiel: Practico guitarra y peleo vs Git.
 
+- Federico Sanchez : hice ejercicios de Mumuki
+
 ¡¡VAMOS, NO SE DESANIMEN!!
