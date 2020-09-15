@@ -1,4 +1,3 @@
-/** First Wollok example */
 object wollok {
 	method howAreYou() {
 		return 'I am Wolloktastic!'
@@ -8,7 +7,14 @@ object wollok {
 
 
 
+object palumbon {
+	method colorFavorito() { return "Naranja" }
+	
+	method amigo() { return wollok }
+
+}
+
+
 object testJuanM{
 	var a = 0 
-	
 }
