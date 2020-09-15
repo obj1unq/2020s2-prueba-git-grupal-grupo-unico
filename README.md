@@ -29,3 +29,5 @@ el profe Leo.
 - Jorge Cabral: Lo logré! 
 
 - Juan Cruz Insaurralde: salí a caminar un rato.
+
+- leonel no intento mas esto
