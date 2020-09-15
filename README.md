@@ -13,4 +13,8 @@ Esta es una actividad para hacerse en grupo!
 - Ivana P. Trabajé y estoy con el repo desde Visual Code (?)
 - Arroyo Gonzalo: que duro que fue esto
 - Daniel - Labure y me dormi alta siesta.
+<<<<<<< HEAD
 
+=======
+- Ignacio Cervantes: andve en skate aprovechando el sol!
+>>>>>>> branch 'master' of https://github.com/obj1unq/2020s2-prueba-git-grupal-grupo-unico.git
