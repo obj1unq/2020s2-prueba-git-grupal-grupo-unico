@@ -9,6 +9,6 @@ object wollok {
 
 
 object testJuanM{
-	
+	var a = 0 
 	
 }
