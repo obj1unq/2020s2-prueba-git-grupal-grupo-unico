@@ -11,3 +11,5 @@ Esta es una actividad para hacerse en grupo!
 - Nahuel Palumbo: Hice una ppt muy mala.
 - Leonardo Criado: Tratar de conquistar el mundo 
 - Ivana P. Trabajé y estoy con el repo desde Visual Code (?)
+- Leonel Montiel: estuve haciendo lecciones de Mumuki, consulté mis dudas en discord y me ayudó
+el profe Leo.
