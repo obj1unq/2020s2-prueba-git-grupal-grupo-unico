@@ -5,5 +5,5 @@ object wollok {
 }
 
 object palumbon {
-	
+	method colorFavorito() { return "Naranja" }
 }
