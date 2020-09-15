@@ -6,6 +6,8 @@ object wollok {
 }
 
 
-
-
-// Testeando push
+object bender {
+	method dice(){
+		return "construiré mi propio parque temático con juegos de azar y mujerzuelas"
+	}
+}
