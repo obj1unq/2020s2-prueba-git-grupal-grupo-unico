@@ -7,6 +7,11 @@ object wollok {
 
 object walterL {
 	
+	method colorFavorito() {
+		return "verde"
+	}
+	
+	
 }
 
 
