@@ -12,3 +12,5 @@ Esta es una actividad para hacerse en grupo!
 - Leonardo Criado: Tratar de conquistar el mundo 
 - Ivana P. Trabajé y estoy con el repo desde Visual Code (?)
 - Arroyo Gonzalo: que duro que fue esto
+- Daniel - Labure y me dormi alta siesta.
+
